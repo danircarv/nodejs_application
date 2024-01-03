@@ -63,8 +63,8 @@ class UsersController {
     UPDATE users SET
     name = ?,
     email = ?,
-    updated_at = ?,
-    WHERE id = ?,`,
+    updated_at = ?
+    WHERE id = ?`,
       [user.name, user.email, new Date(), id]
     );
 
