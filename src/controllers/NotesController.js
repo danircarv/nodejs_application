@@ -23,7 +23,8 @@ class NotesController {
     const tagsInsert = tags.map((name) => {
       return {
         note_id,
-        url: link,
+        name,
+        user_id,
       };
     });
 
