@@ -53,6 +53,8 @@ class NotesController {
     const { id } = request.params;
 
     await knex("notes").where({ id }).delete();
+
+    return response.json();
   }
 }
 
