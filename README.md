@@ -12,18 +12,6 @@
   
 </p>
 
-<h4 align="center"> 
-	🚀 Aplicação Finalizada 🚀
-</h4>
-
-<p align="center">
- <a href="#-about">About</a> |
- <a href="#-deploy">Deploy</a> | 
- <a href="#-how-it-works">How It Works</a> | 
- <a href="#-technologies">Technologies</a> | 
- <a href="#-author">Author</a> | 
- <a href="#-license">License</a>
-</p>
 
 
 ## 💻 About
