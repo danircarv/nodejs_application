@@ -23,7 +23,7 @@ Este é o repositório do back-end da aplicação Rocketnotes ([link do front-en
 
 ## 🔗 Deploy
 
-O acesso ao deploy da API fica disponível através da seguinte URL base: https://rocketnotes-api-epnx.onrender.com
+O acesso ao deploy da API fica disponível através da seguinte URL base: [API](https://api-rocketnotes-us3p.onrender.com)
 
 > Obs: a aplicação pode demorar um pouco para entrar na primeira execução depois de um tempo, devido ao back-end estar rodando através do plano gratuito na plataforma de hospedagem.
 
